@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="Color-Match-carpdiem",
+    name="Color_Match",
     version="0.0.1",
     author="Michael Woods",
     author_email="mail@michaelwoods.us",
@@ -15,7 +15,7 @@ setuptools.setup(
     license="MIT",
     packages=['Color_Match'],
     classifiers=[
-        "Programming Language :: Python :: .",
+        "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],

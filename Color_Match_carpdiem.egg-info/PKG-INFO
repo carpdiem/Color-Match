@@ -13,7 +13,7 @@ Description: # Color-Matching
         In other words, if you've every wondered "how do I make 3800K light with RGB LEDs?", then this package is for you.
         
 Platform: UNKNOWN
-Classifier: Programming Language :: Python :: .
+Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
