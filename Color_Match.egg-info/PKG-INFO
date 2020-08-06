@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: Color-Match-carpdiem
+Name: Color-Match
 Version: 0.0.1
 Summary: Utility functions for generating perceptually equivalent colors to a known spectrum using specific, available, wavelength sources.
 Home-page: https://github.com/carpdiem/Color-Match
