@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: Color-Match-carpdiem
+Version: 0.0.1
+Summary: Utility functions for generating perceptually equivalent colors to a known spectrum using specific, available, wavelength sources.
+Home-page: https://github.com/carpdiem/Color-Match
+Author: Michael Woods
+Author-email: mail@michaelwoods.us
+License: MIT
+Description: # Color-Matching
+        
+        This package contains utility functions for creating perceptually equivalent colors to those of a known spectrum when only having access to certain, fixed-wavelength sources.
+        
+        In other words, if you've every wondered "how do I make 3800K light with RGB LEDs?", then this package is for you.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: .
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
