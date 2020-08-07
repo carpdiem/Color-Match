@@ -1,4 +1,4 @@
-# Color-Matching
+# Color-Match
 
 This package contains utility functions for creating perceptually equivalent colors to those of a known spectrum when only having access to certain, fixed-wavelength sources.
 
