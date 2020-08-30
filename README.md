@@ -25,7 +25,8 @@ import Color_Match as cm
 # first, generate the expected sense vector for the color temperature in question
 sv = cm.sense_vector(cm.planck_spectrum(1900))
 
-# using the sample wavelength values from above, converted into units of meters
+# using the sample wavelength values from above, converted into units of meters,
+#   we can get the needed relative intensities of our RGB LEDs
 relative_intensities = cm.rgb_composition(623e-9, 528e-9, 470e-9, sv)
 
 # full_brightness_limit is whatever value corresponds to a maximum output on an
