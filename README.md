@@ -18,7 +18,7 @@ Once you've installed it, go look up the emission wavelengths of your RGB LEDs o
 
 Then, let's say that you're trying to generate the equivalent of 1900K light (roughly candle-light), you would use the following code.
 
-```
+```python
 
 import Color_Match as cm
 
